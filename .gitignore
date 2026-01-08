@@ -1,0 +1,26 @@
+# ===== Visual Studio =====
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===== Build Output =====
+bin/
+obj/
+
+# ===== Debug / Release =====
+Debug/
+Release/
+
+# ===== .NET =====
+*.dll
+*.exe
+*.pdb
+
+# ===== Logs =====
+*.log
+
+# ===== OS junk =====
+Thumbs.db
+.DS_Store
