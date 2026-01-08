@@ -20,7 +20,6 @@ The program has the following main functions:
 - Framework net8.0-windows
 
 ## How to Run
-EBat_UI\bin\Debug\net8.0-windows\net8.0-windows\Eckard Bank and Trust.exe
 
 
 ## *NOTE*
